@@ -1,0 +1,106 @@
+body {
+    font-family: sans-serif;
+}
+
+
+
+
+h1{
+    color:#E99E11 ;
+    text-align: center;
+    font-size: 25px ;
+}
+
+
+footer{
+    background-color: #EDEDED;
+     border-radius: 20px;
+    padding :20px ;
+    font-size: 20px ;
+}
+
+
+
+header p{
+    color:#FF0000 ;
+    display: inline;
+    margin-right: 30px;
+}
+
+header{
+    background-color: #EDEDED;
+    padding :20px  ;
+    border-radius: 20px;
+}
+
+
+body{
+    color:;
+}
+
+
+
+.Knopki {
+    text-align: center;
+    margin: 25px;
+    background-color:antiquewhite;
+    color:white ;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+ .card{
+    border: 2px solid #E99E11;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+
+ }
+
+ .link-header{
+    background-color:rgb(123, 123, 160) ;
+    color:white ;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 15px;
+    float: right;
+ }
+
+ .catalog{
+    display: flex;
+    justify-content: center;
+ }
+
+
+ .card img {
+    width:150px ;
+    height:150px;
+ }
+ 
+
+main p {
+    text-align: center;
+}
+
+.buy{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+.Knopki a{
+    text-decoration: none;
+    color: black;
+    padding-right:10px ;
+}
+
+.logo{
+    height: 50px;
+    width:50px ;
+}
